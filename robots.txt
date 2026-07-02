@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /
+Allow: /
 Disallow: /privacy.html
 
 Sitemap: https://rossipaolavargasdaly.netlify.app/sitemap.xml
